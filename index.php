@@ -141,7 +141,7 @@
 
                 <img src="" alt="img" draggable="false">v
 
-                <img src="" alt="img" draggable="false"> -->
+                <img src="" alt="img" draggable="false"> .-->
             </div>
             <i id="right" class="fa-solid fa-angle-right"></i>
         </div>
