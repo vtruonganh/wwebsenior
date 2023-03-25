@@ -5,10 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <link rel="stylesheet" href="js.js">
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <script src="js.js" defer></script>
     <title>Document</title>
 </head>
 
@@ -60,9 +62,8 @@
                 <a href="#">View more partners</a>
             </div>
 
-
-
         </div>
+
 
         <div class="section-gr2">
             <h1>We Provide <em>Different Services</em> & <span>Features</span> For Your Agency <em>The Power
@@ -106,8 +107,25 @@
                 </div>
             </div>
 
-
+          
         </div>
+        <h1>Discover Our <em>Workplace</em> & <span>Member</span> </h1>
+        <div class="slideshow">
+            
+                <i id="left" class="fa-solid fa-angle-left"></i>
+                <div class="carousel">
+                    <img src="https://thinkdiff.us/assets/images/img036.jpg" alt="img" draggable="false">
+                    <img src="https://thinkdiff.us/assets/images/img034.jpg" alt="img" draggable="false">
+                    <img src="https://thinkdiff.us/assets/images/img037.jpg" alt="img" draggable="false">
+                    <img src="https://thinkdiff.us/assets/images/img033.jpg" alt="img" draggable="false">
+                    <img src="https://thinkdiff.us/assets/images/img031.jpg" alt="img" draggable="false">
+                    <img src="https://thinkdiff.us/assets/images/img032.jpg" alt="img" draggable="false">
+                    <img src="https://thinkdiff.us/assets/images/img010.jpg" alt="img" draggable="false">
+                    <img src="https://thinkdiff.us/assets/images/img09.jpg" alt="img" draggable="false">
+                    <img src="https://thinkdiff.us/assets/images/img038.jpg" alt="img" draggable="false">
+                </div>
+                <i id="right" class="fa-solid fa-angle-right"></i>
+            </div>
         <div class="section-gr3">
             <div class="choose1">
                 <h3>Small Business Owner?</h3>
