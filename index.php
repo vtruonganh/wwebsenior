@@ -107,25 +107,44 @@
                 </div>
             </div>
 
-          
+
         </div>
         <h1>Discover Our <em>Workplace</em> & <span>Member</span> </h1>
         <div class="slideshow">
-            
-                <i id="left" class="fa-solid fa-angle-left"></i>
-                <div class="carousel">
-                    <img src="https://thinkdiff.us/assets/images/img036.jpg" alt="img" draggable="false">
-                    <img src="https://thinkdiff.us/assets/images/img034.jpg" alt="img" draggable="false">
-                    <img src="https://thinkdiff.us/assets/images/img037.jpg" alt="img" draggable="false">
-                    <img src="https://thinkdiff.us/assets/images/img033.jpg" alt="img" draggable="false">
-                    <img src="https://thinkdiff.us/assets/images/img031.jpg" alt="img" draggable="false">
-                    <img src="https://thinkdiff.us/assets/images/img032.jpg" alt="img" draggable="false">
-                    <img src="https://thinkdiff.us/assets/images/img010.jpg" alt="img" draggable="false">
-                    <img src="https://thinkdiff.us/assets/images/img09.jpg" alt="img" draggable="false">
-                    <img src="https://thinkdiff.us/assets/images/img038.jpg" alt="img" draggable="false">
-                </div>
-                <i id="right" class="fa-solid fa-angle-right"></i>
+
+            <i id="left" class="fa-solid fa-angle-left"></i>
+            <div class="carousel">
+                <img src="https://thinkdiff.us/assets/images/img01.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img036.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img034.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img037.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img033.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img031.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img032.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img010.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img09.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img038.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img031.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img032.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img039.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img040.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img041.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img042.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img043.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img049.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img050.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img051.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img052.jpg" alt="img" draggable="false">
+                <img src="https://thinkdiff.us/assets/images/img053.jpg" alt="img" draggable="false">
+                <!-- <img src="" alt="img" draggable="false">
+                <img src="" alt="img" draggable="false">
+
+                <img src="" alt="img" draggable="false">v
+
+                <img src="" alt="img" draggable="false"> -->
             </div>
+            <i id="right" class="fa-solid fa-angle-right"></i>
+        </div>
         <div class="section-gr3">
             <div class="choose1">
                 <h3>Small Business Owner?</h3>

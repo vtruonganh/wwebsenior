@@ -54,7 +54,7 @@
 
     <div class="footer_copy">
 
-        <p>© 2023 Suntech. All Rights Reserved.</p>
+        
 
         <p><span> Terms & Conditions </span>| <span>Privacy Policy</span></p>
 
